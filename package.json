@@ -1,5 +1,5 @@
 {
-  "name": "starter-kit",
+  "name": "nextjs-modal",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,7 +11,9 @@
   "dependencies": {
     "next": "12.1.4",
     "react": "18.0.0",
-    "react-dom": "18.0.0"
+    "react-dom": "18.0.0",
+    "react-icons": "^4.3.1",
+    "tailwindcss-stimulus-components": "^3.0.4"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.4",
